@@ -1,0 +1,4 @@
+# analysis scratch / large intermediates
+*.dis
+__pycache__/
+*.pyc
